@@ -1,0 +1,2 @@
+# Oracle-Profitability-and-Cost-Management-2026-Implementation-Professional-1Z0-1082-26-Study-Guide
+A practical study guide for Oracle Profitability and Cost Management 2026 Implementation Professional (1Z0-1082-26), covering application setup, dimensions, POVs, allocation rules, model calculations, analytics, data integration, migration to Enterprise Profitability and Cost Management (EPCM), and AI-assisted workflows.
